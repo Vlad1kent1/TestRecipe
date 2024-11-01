@@ -2,7 +2,7 @@
   "name": "test",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://vlad1kent1.github.io/TestRecipe",
+  "homepage": "https://vlad1kent1.github.io/TestRecipe/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
